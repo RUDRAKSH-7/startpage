@@ -5,7 +5,7 @@ body {
 }
 
 div {
-    align-items: center;
-    align-content: center;
+    position: relative;
+    top : 25%;
     text-align: center;
 }
