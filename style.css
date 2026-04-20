@@ -1,0 +1,11 @@
+body {
+    font-size : 32;
+    background-color: rgb(25, 46, 80);
+    font-family :'JetBrains Mono', Times, serif;
+}
+
+div {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
