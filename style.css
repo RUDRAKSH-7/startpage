@@ -8,7 +8,7 @@ body {
   /* Your mobile-only styles go here */
   body {
     scale: 0.8;
-    text-wrap: unset;
+    white-space : nowrap;
     font-size: 28;
     background-color: rgb(10,10,10);
   }
