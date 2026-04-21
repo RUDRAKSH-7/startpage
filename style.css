@@ -9,7 +9,7 @@ body {
   /* mobile-only styles go here */
   body {
     text-wrap: unset;
-    font-size: 32;
+    font-size: 28;
     background-color: rgb(10,10,10);
   }
 }
