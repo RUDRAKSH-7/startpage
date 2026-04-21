@@ -4,16 +4,20 @@ body {
     color : white;
     font-family : monospace
 }
-
 @media only screen and (max-width: 767px) {
-  /* mobile-only styles go here */
+  /* Your mobile-only styles go here */
   body {
+    scale: 0.8;
     text-wrap: unset;
     font-size: 28;
     background-color: rgb(10,10,10);
   }
+  #lol{
+    color : white;
+    align-items: center;
+    padding-right : 40 ; 
+  }
 }
-
 #HEAD {
     padding-top: 2%;
     text-align: center;
@@ -22,7 +26,7 @@ body {
 #lol {
     color : white;
     align-content: center;
-    text-align: center;
+    /* text-align: center; */
     padding-right : 40 ;  
 }
 ul{
