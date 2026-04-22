@@ -42,6 +42,6 @@ a{
 }
 a:hover{
     transition-duration: 20ms;
-    color: aqua;
+    color: yellow;
     text-decoration: underline dotted;
 }
