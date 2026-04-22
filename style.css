@@ -7,7 +7,7 @@ body {
 #HEAD {
     padding-top: 2%;
     text-align: center;
-    color: rgb(90, 206, 255);
+    color: yellow;
 }
 @media only screen and (max-width: 767px) {
   /* Your mobile-only styles go here */
