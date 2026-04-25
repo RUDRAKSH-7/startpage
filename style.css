@@ -1,5 +1,5 @@
 body {
-    font-weight : 1000;
+    font-weight: 1000;
     font-size : 36;
     background-color: rgb(10,10,10);
     color : white;
@@ -8,7 +8,7 @@ body {
 #HEAD {
     padding-top: 2%;
     text-align: center;
-    color: yellow;
+    color: rgb(75,190,255);
 }
 @media only screen and (max-width: 767px) {
   /* Your mobile-only styles go here */
@@ -43,6 +43,6 @@ a{
 }
 a:hover{
     transition-duration: 20ms;
-    color: yellow;
+    color: rgb(75,190,255);
     text-decoration: underline dotted;
 }
