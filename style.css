@@ -44,5 +44,5 @@ a{
 a:hover{
     transition-duration: 20ms;
     color: rgb(75,190,255);
-    text-decoration: underline dotted;
+    text-decoration: none;
 }
